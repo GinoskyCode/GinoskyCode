@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GinoskyCode
-- 👀 I’m interested in ...el desarrollo de videojuegos
-- 🌱 I’m currently learning ...java
-- 💞️ I’m looking to collaborate on ...algun proyecto de un videojuego
-- 📫 How to reach me ...WhatsApp: 3166176091
+- 👀 I’m interested in Desarrollo Web
+- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 💞️ I’m looking to collaborate on Paginas web
+- 📫 How to reach me https://www.linkedin.com/in/gino-gonzalo-uribe-davila/ 
 
 <!---
 GinoskyCode/GinoskyCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
